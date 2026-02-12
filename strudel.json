@@ -1,0 +1,7 @@
+{
+  "_base": "https://raw.githubusercontent.com/EvanHicks123/strudel-collage/main/",
+  "myDrums": "drums.wav",
+  "myPad": "pad.wav",
+  "myTexture": "texture.wav",
+  "myFx": "fx.wav"
+}
